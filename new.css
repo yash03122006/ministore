@@ -1,0 +1,53 @@
+
+
+/* Products */
+
+.products {
+    height: 100vh;
+
+}
+.productsh1 {
+    margin-top: 90px;
+    margin-left: 50px;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    opacity: 0.8;
+}
+
+.products {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 30px;
+    
+    
+}
+.products img {
+    /* justify-items: flex-start; */
+}
+
+.products p {
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+
+/* watches start */
+
+.watchesh1 {
+    margin-left: 50px;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    opacity: 0.8;
+}
+.watches {
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 20px;
+}
+.watches p {
+    margin-top: 20px;
+    font-size: 23px ;
+}
